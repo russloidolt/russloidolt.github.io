@@ -1,20 +1,59 @@
 body {
-  background-color: #90AB9E;
+  background-color: #C1CFC8;
 }
 
 div {
-  border-radius: 3px;
-  background-color: #fdf8f4;
+  border-radius: 4px;
+  background-color: #FFF8EE;
   font-family: Georgia, serif;
 }
 
 #header {
+  border-top: 2em solid #31485B;
   position: relative;
   top: -25px;
   margin: 50px 50px 0px 50px;
   padding: 25px;
-  }
+}
+
+#intro {
+  top: 0;
+  left: 0;
+}
+
+#navi-one {
+  padding: 25px;
+  width: 90px;
+  height: 2px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bacground-color: #9694AB;
+  z-index: 11;
+}
   
+#navi-two {
+  padding: 25px;
+  width: 70px;
+  height: 2px;
+  position: absolute;
+  top: 0;
+  right: 130px;
+  bacground-color: #9694AB;
+  z-index: 12;
+}
+
+#navi-three {
+  padding: 25px;
+  width: 60px;
+  height: 2px;
+  position: absolute;
+  top: 0;
+  right: 228px;
+  bacground-color: #9694AB;
+  z-index: 13;
+}
+
 .left {
   float: left;
   margin: 0px 0px 50px 50px;
@@ -29,22 +68,24 @@ div {
   padding: 25px;
 }
 
+a:link,a:visited {
+  text-decoration: none;
+  border-bottom: 1px solid #888888;
+  color: #000000;
+}
+
 a:hover {
 
   font-weight: bold;
 
-  text-decoration: underline;
-  color: #1805BB;
+  text-decoration: none;
+  border-bottom: 2px solid #888888;
+  color: #888888;
 }
 
 
-a:visited {
-  text-decoration: none;
-  color: #000000;
-}
-
-a:link {
-  text-decoration: none;
-  border-bottom: 1px solid #e8e6e4;
-  color: #000000;
+a.navilink:link,a.navilink:visited,a.navilink:hover,a.navilink:active {
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
 }
