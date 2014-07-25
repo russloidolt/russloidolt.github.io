@@ -54,16 +54,23 @@ div {
   z-index: 13;
 }
 
+.myvid {
+  margin-left: 50px;
+  margin-top: 0px;
+  margin-right: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+}
 .left {
   float: left;
-  margin: 0px 0px 50px 50px;
+  margin: 0px 0px 25px 50px;
   width: 40%;
   padding: 25px;
 }
 
 .right {
   float: right;
-  margin: 0px 50px 50px 0px;
+  margin: 0px 50px 25px 0px;
   width: 40%;
   padding: 25px;
 }
@@ -88,4 +95,14 @@ a.navilink:link,a.navilink:visited,a.navilink:hover,a.navilink:active {
     font-weight: bold;
     text-decoration: none;
     color: #000000;
+}
+
+.footer {
+  clear: both;
+  border-bottom: 2em solid #31485B;
+  margin-left: auto;
+  margin-top: 25px;
+  margin-right: auto;
+  padding: 25px;
+  width: 200px;
 }
