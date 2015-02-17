@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<title>Russ Loidolt</title>
+<meta name="Copyright" content="Copyright (c) 2014 by Russell J. Loidolt. All Rights Reserved">
+<meta name="author" content="Russ Loidolt">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-53186622-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body>
+<div id="header">
+<div id="intro">
+<h1>
+more about Russ Loidolt as the Assistant Director HRIS...
+</h1>
+</div>
+<div class="myvid">
+<!-- <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/s2IigTeuSqM" frameborder="0" allowfullscreen></iframe>
+-->
+</div>
+<div style="margin-top: 75px;">
+<h2>
+Read the recent remarks posted on Google+ by a coworker...
+</h2>
+</div>
+<div class="myvid">
+<iframe src="https://docs.google.com/file/d/0BxVhTvKvkSpUaXhsZW9mLWxsS1k/preview" width="640" height="480"></iframe>
+</div>
+<div class="left" style="margin-top: 50px;">
+<h2>
+Highlights from the Job Description section from the posting (Position Number 39173):
+</h2>
+<h5>
+""
+</h5>
+<p>
+
+</p>
+</div>
+<div class="right" style="margin-top: 50px;">
+<h2>
+From the Preferences section for this posting:
+</h2>
+<h5>
+""
+</h5>
+<p>
+
+</p>
+</div>
+<div id="navi-one">
+<a class="navilink" href="http://russloidolt.com/interests.html">INTERESTS</a>
+</div>
+<div id="navi-two">
+<a class="navilink" href="http://russloidolt.com/cv.html">RESUMÉ</a>
+</div>
+<div id="navi-three">
+<a class="navilink" href="http://russloidolt.com/">INTRO</a>
+</div>
+</div>
+<div class="footer">
+<h2>
+Contact Info
+</h2>
+<p>
+PDF Resumé...
+</p>
+<p>
+<a href="https://drive.google.com/open?id=0BxVhTvKvkSpUZ2d0Zi1qT1J5SDA&authuser=0">CV - Mgmt</a>
+</p>
+<p>
+LinkedIn...
+</p>
+<p>
+<a href="https://www.linkedin.com/in/russloidolt">russloidolt</a>
+</p>
+<p>
+twitter...
+</p>
+<p>
+<a href="http://twitter.com/nodolt/">@nodolt</a>
+</p>
+<p>
+email me...
+</p>
+<p>
+<a href="mailto:russ@russloidolt.com">russ@russloidolt.com</a>
+</p>
+<p>
+call me...
+</p>
+<p>
+<a href="tel:1-505-750-4430">505.750.4430</a>
+</p>
+</body>
+</html>
