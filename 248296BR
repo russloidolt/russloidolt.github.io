@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<title>Russ Loidolt</title>
+<meta name="Copyright" content="Copyright (c) 2014 by Russell J. Loidolt. All Rights Reserved">
+<meta name="author" content="Russ Loidolt">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-53186622-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body>
+<div id="header">
+<div id="intro">
+<h1>
+more about Russ Loidolt as the Assistant Director HRIS at UCF...
+</h1>
+</div>
+<div class="myvid">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8i1R_BouuM" frameborder="0" allowfullscreen></iframe>
+</div>
+<div style="margin-top: 75px;">
+<h2>
+Read the recent remarks posted on Google+ by a coworker...
+</h2>
+</div>
+<div class="myvid">
+<iframe src="https://docs.google.com/file/d/0BxVhTvKvkSpUaXhsZW9mLWxsS1k/preview" width="640" height="480"></iframe>
+</div>
+<div class="left" style="margin-top: 50px;">
+<h2>
+From the 'primary responsibility' for this posting:
+</h2>
+<h5>
+"The coordination, specification, design, testing, implementation, and maintenance of computer-based information systems to service the Human Resources areas. The HRIS includes HR, Payroll, Time and Labor, Employment, Training, Benefits, Position Management and other related applications."
+</h5>
+<p>
+This is in my wheel house.  As a manager in a human capital management service organization, I have been leading the setup of accounts in our software for years.  I am involved in all of the nouns used in the above statement:  coordination - I direct the project management and scheduling of resources for the work required in the software platforms used; specification - whether it is the translation of data between systems or configuring particular settings for an account, I am the go-to person for the team of personnel involved in HRIS related applications; design - basic configuration or custom javascripting, I have experience in designing functionality in software; testing - auditing the accuracy of data entry and the expected results of software functionality are both necessary areas of my focus especially given the SSAE 16 audit standards I have direct responsibility to meet; implementation - training is the result of delivering successful account setup and software functionality to the end user, and I have led hundreds of training sessions for both internal and external users; maintenance - as the Network Admin, the system maintenenance I perform goes well beyond the account configuration back into the back-end of SQL database management and server administration.<br>
+My direct reports are responsible for account implementation and support of HRIS, payroll and timekeeping platforms.  HRIS has functionality within it for employment recruiting, onboarding, tracking training, managing benefit enrollment and position management.<br>
+My responsbilities involve me in cross-departmental work with HR consulting personnel, benefits brokers and developing wellness programs.  I am knowledgable in all areas of the employment life cycle and human resource management:  staffing, benefits, tax credits, payroll tax management, handbooks, employee policies, retirement plans, and more.
+</p>
+<h2>
+From the Preferences section for this posting:
+</h2>
+<h5>
+"The selected candidate will be an effective leader with demonstrated skills in team development"
+</h5>
+<p>
+Successful customer satisfaction in a service organization is involving the client contacts as part of 'the team' - I have more than a decade of experience managing and supervising personnel, coordinating vendors and meeting expectations of client personnel who might be an administrative assistant or even the CEO.  My track record of team development includes the use of behaviorial assesments to improve teamwork and productivity as well as ongoing training encouraging more efficient use of software and processes.
+</p>
+<h5>
+  "including the ability to lead and motivate a team of HRIS professionals"
+</h5>
+<p>
+  As previously stated, I am the supervisor of the personnel responsible for the setup and support of HRIS, payroll and timekeeping information and functionality.  Additionally, I have been tasked with influencing service standards and daily meeting similar to the Ritz-Carlton stellar customer service approach.  I would like ot have the opportunity to discuss how I approach motivating coworkers first by example and then by follow-up.
+</p>
+<h5>
+  "planning, design and implementation of medium to complex projects"<br>
+  "PeopleSoft experience, including strong proficiency in excel, query and reporting tools is essential. Strong understanding of HR processes and data along with HRIS database design, structure, functions and processes are a must."
+</h5>
+<p>
+  The cloud software platform I adminster that delivers HRIS functionality to clients is by Rollbase.  I have expertise in leveraging Javascript to customize functionality and data management.  I am experienced in configuring reporting and filtered views for end users.  I have a strong understanding of relational database management, customizing fields, API communication and data formatting.<br>
+  The thin client payroll system is hosted on multiple servers of which I monitor and administrate.  The database platform is Firebird housed in Linux servers.  The application delivering end user access is Windows-base.  I have years of SQL reporting and querying of data in this system and MS Access.<br>
+  The time and labor system is also cloud software and involves either API transaction or batch files for interactivity with the other systems.  I have years of experience supporting clients' use of the timekeeping hardware and software functionality.<br>
+  Payday, Inc. has had a business relationship with over 2,500 separate accounts during my career history.  I have had an extensive amount of experience in HR process and data dealing with all of the large employer accounts and most of the remaining.  I am talented at simplifying and working through complex projects.
+</p>
+<h5>
+  "The selected candidate will also have a strong customer service focus along with excellent communication and presentation skills."
+</h5>
+<p>
+  I participated in the Ritz-Carlton service excellence corporate training in Atlanta, GA, in order to bring back their example of service standards into our organization.  I have led and influenced coworkers the delivery of engaging and exeptional customer service to client.  I have presented to prospects, clients and coworkers numerous times with audiences ranging in size of a couple to more than thirty and in roles from CEO's to backoffice personnel.
+</p>
+</div>
+<div class="right" style="margin-top: 50px;">
+<h2>
+Highlights from the Job Description section from the posting (Position Number 39173):
+</h2>
+<h5>
+"Ensuring that Human Resources staff and departmental representatives are properly informed of the functions and use of computer systems used within Human Resources, including PeopleSoft and other systems or programs."
+</h5>
+<p>
+I devleop training materials such as online documents or video recordings steps taken within a software.  I have led many training sessions instructing personnel on software functionality.  I am extremely confident in my ability to be successful in equipping UCF staff in their use within HR systems.
+</p>
+<h5>
+"Coordinate upgrades and module development and implementation. This includes documentation and testing of delivered functionality, system modifications, and patches. Documents business processes and operational rules as they relate to HRIS. Work with HR areas to integrate and adapt departmental business processes and computer application interfaces to best meet the needs of HR and the University."
+</h5>
+<p>
+I perform system upgrades almost weekly to our server infrastructure.  I also work with an IT vendor who provide desktop support to our personnel.  I document and record reference for them to be able to step into my role in the case of my absence.  I believe it is clearly evident that I have the technical expertise to be able to coordinate 'upgrades and module development and implementation' for the UCF HRIS systems.  I would also point to my experience in authoring SSAE 16 audit standards and attestation statements along with the reoccurring audit steps required to maintain compiance.<br>
+Regarding integration and interfaces between departments and separate computer applications, I have experience with batch transfers and API communication protocols.  I will be able to successfully 'best meet the needs' of UCF HR.
+</p>
+<h5>
+"Coordinate activities with departments to ensure information systems needs are being met. This includes understanding the business processes in the department and developing recommendations for improving efficiency and productivity using university computing resources."
+</h5>
+<p>
+I pride myself on my effort at effectively collaborating with others.  I have a strong track record leveraging technology and effectively communicating with stakeholders in delivering progress for projects.  As a payroll professional, I intimately know and understand the inflexible timelines and the demand for accuracy!  Being a manager in a payroll service company, I have substantial experience in the resolution of errors in tax reporting and ACH transactions.  Given my responsibility in maximizing profit for our company, I am dedicated to improving efficiency and productivity in every transaction!
+</p>
+<h5>
+"Identify communication needs related to HR Systems and programs. These needs would include, but not limited to, forms processes and use of systems. Trains other employees within Human Resources as super-users and trainers. Facilitates the training provided by these individuals, as necessary.<br>
+Serves as the back-up for maintenance of the Human Resources website. Assist in web design as needed."
+</h5>
+<p>
+Our HRIS platform delivers recruiting functionality to each client's individual corporate website.  Integreating website functionality requires HTML and CSS expertise.  I do have this expertise along with Wordpress management.  I have involvement in branding and website management for the Payday websites and social media channels.  So, I am capable of assisting in web design as needed.<br>
+I also have capabilities in managing forms necessary in onboarding and ongoing employee relationship management.  And, I echo my above statements in underlining my abilities in training coworkers in end user scenarios or train-the-trainer sessions.
+</p>
+</div>
+<div id="navi-one">
+<a class="navilink" href="http://russloidolt.com/interests.html">INTERESTS</a>
+</div>
+<div id="navi-two">
+<a class="navilink" href="http://russloidolt.com/cv.html">RESUMÉ</a>
+</div>
+<div id="navi-three">
+<a class="navilink" href="http://russloidolt.com/">INTRO</a>
+</div>
+</div>
+<div class="footer">
+<h2>
+Contact Info
+</h2>
+<p>
+PDF Resumé...
+</p>
+<p>
+<a href="https://drive.google.com/open?id=0BxVhTvKvkSpUZ2d0Zi1qT1J5SDA&authuser=0">CV - Mgmt</a>
+</p>
+<p>
+LinkedIn...
+</p>
+<p>
+<a href="https://www.linkedin.com/in/russloidolt">russloidolt</a>
+</p>
+<p>
+twitter...
+</p>
+<p>
+<a href="http://twitter.com/nodolt/">@nodolt</a>
+</p>
+<p>
+email me...
+</p>
+<p>
+<a href="mailto:russ@russloidolt.com">russ@russloidolt.com</a>
+</p>
+<p>
+call me...
+</p>
+<p>
+<a href="tel:1-505-750-4430">505.750.4430</a>
+</p>
+</body>
+</html>
